@@ -1,0 +1,48 @@
+{
+    "Id": 2,
+    "Name": "Telepaint",
+    "Category": "Entertainment",
+    "Price": 2.99,
+    "ImageName": "telepaint",
+    "screenshots":
+    [
+     "telepaint1",
+     "telepaint2",
+     "telepaint3",
+     "telepaint4",
+     "telepaint5"
+     ],
+    "description": "Join your friends from FROZEN to build your very own version of Arendelle and let your imagination run wild! Customize FROZEN buildings and add tons of props to design your worlds any way you like...",
+    "appInformation":
+    [
+     {
+     "Name": "Seller",
+     "Value": "Telepaint Publishing Worldwide Applications"
+     },
+     {
+     "Name": "Category",
+     "Value": "Entertainment"
+     },
+     {
+     "Name": "Updated",
+     "Value": "Mar 9, 2016"
+     },
+     {
+     "Name": "Version",
+     "Value": "1.0"
+     },
+     {
+     "Name": "Size",
+     "Value": "119 MB"
+     },
+     {
+     "Name": "Ratings",
+     "Value": "Ages 4+, Made for Ages 6-8"
+     },
+     {
+     "Name": "Family Sharing",
+     "Value": "Yes"
+     }
+     
+     ]
+}
